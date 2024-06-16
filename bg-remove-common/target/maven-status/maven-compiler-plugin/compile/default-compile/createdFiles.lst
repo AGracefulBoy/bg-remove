@@ -1,5 +1,0 @@
-com/zhoudashuai/api/ResultCode.class
-com/zhoudashuai/exception/GlobalExceptionAdvice.class
-com/zhoudashuai/api/IErrorCode.class
-com/zhoudashuai/api/CommonResult.class
-com/zhoudashuai/exception/ApiException.class
